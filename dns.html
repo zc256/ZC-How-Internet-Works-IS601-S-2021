@@ -153,6 +153,19 @@
             </ul>
             <br>
             <h2>Examples</h2>
+            <p>Below is an example of what DNS is</p>
+            <ul>
+                <ol>
+                    <li>Client request "www.example.com"</li>
+                    <li>Query arrives at local DNS server, and begins searching</li>
+                    <li>The local DNS server will ask the root server if it knows "www.example.com". If it does not know it, it will send the local DNS server to the TLD server ".com"</li>
+                    <li>The local DNS server will then ask the TLD server ".com" if it knows "www.example.com". Since the TLD matches, the TLD server ".com" sends another response to go to the example name server</li>
+                    <li>The local DNS server then sends the "www.example.com" name server, and the example name server sends back the IP address of the domain</li>
+                    <li>The local DNS server then sends the IP address to the web browser</li>
+                    <li>The web browser in turns sends the IP address to the web server</li>
+                    <li>The web server sends back the content that the user requested</li>
+                </ol>
+            </ul>
             <br>
             <h2>Why do we use DNS?</h2>
             <ul>
