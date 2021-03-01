@@ -16,3 +16,7 @@ https://zc256.github.io/ZC-How-Internet-Works-IS601-S-2021/index.html
 - packets.jpg: “organic growth” by Steve Jurvetson
 - routing.jpg: “Show IP Routing Table” by Linux Screenshots [xmodulo.com](https://www.xmodulo.com/)
 - w3c.jpg: “W3C” by Prachatai
+
+# Important notes
+- Sources used are included in clickable links in the "Examples" section of each specific topic page.
+- The general topics pages provide a brief overview of each of the specific topics, and a brief explanation of the image used is also provided.
