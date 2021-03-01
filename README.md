@@ -20,3 +20,4 @@ https://zc256.github.io/ZC-How-Internet-Works-IS601-S-2021/index.html
 # Important notes
 - Sources (if applicable) used are included in clickable links in the "Examples" section of each specific topic page.
 - The general topics pages provide a brief overview of each of the specific topics, and a brief explanation of the image used is also provided.
+- General format of page can be found here: [Bootstrap Sidebar](https://bootstrapious.com/p/bootstrap-sidebar)
