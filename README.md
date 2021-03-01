@@ -18,5 +18,5 @@ https://zc256.github.io/ZC-How-Internet-Works-IS601-S-2021/index.html
 - w3c.jpg: “W3C” by Prachatai
 
 # Important notes
-- Sources used are included in clickable links in the "Examples" section of each specific topic page.
+- Sources (if applicable) used are included in clickable links in the "Examples" section of each specific topic page.
 - The general topics pages provide a brief overview of each of the specific topics, and a brief explanation of the image used is also provided.
